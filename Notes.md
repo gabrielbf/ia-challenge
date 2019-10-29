@@ -3,6 +3,7 @@
 * Consumir API com script Python
 * [Criação de ambiente](https://cloud.google.com/vision/docs/libraries#client-libraries-install-python)
 
+  Exportar variável com localização do JSON com key para acessar API
   `export GOOGLE_APPLICATION_CREDENTIALS="[PATH]"`
 
 # Algoritmos
