@@ -2,7 +2,8 @@
 * Usando Google Vision API
 * Consumir API com script Python
 * [Criação de ambiente](https://cloud.google.com/vision/docs/libraries#client-libraries-install-python)
-...`export GOOGLE_APPLICATION_CREDENTIALS="[PATH]"`
+
+  `export GOOGLE_APPLICATION_CREDENTIALS="[PATH]"`
 
 # Algoritmos
 * Treinar api de Machine Learning do Google com várias imagens do Wally e usar ela pra reconhecer na imagem do desafio
